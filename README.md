@@ -1,5 +1,11 @@
 Made with the basics of C++ and python.
 
+Before running this program sign into the official playstation store and login.\
+Then go to https://ca.account.sony.com/api/v1/ssocookie \
+This is your npsso which is required for the API to verify who you are, the program will prompt when to enter this (copy it without the quotes).
+
+![image](https://github.com/user-attachments/assets/536a0a00-6867-4208-8d31-92b0cf049118)
+
 Use case for current build is best for adding the txt file that is updated from the app to something like OBS to track trophy count for selected game.
 
 Right now it only updates a txt file with the trophy count of a selected game, but the json files that are returned with the python requests contain much more fun trophy info to use for an app. 
