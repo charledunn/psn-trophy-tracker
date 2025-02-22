@@ -18,6 +18,7 @@ To compile:
 
 install msys2 and refer to docs to use g++ https://www.msys2.org/
 
-In cmd go to the source files folder directory (or set path in command) and enter:
+In cmd go to the source files folder directory (or set path in command) and enter:\
+(optionally add -O2 after g++ for optimizations if you are not testing)
 
 g++ -std=c++17 -pthread main.cpp -o main -I"(set your python folder path here)Python313\include" -L"(set your python folder path here)Python313\libs" -lpython313 -static-libgcc -static-libstdc++
