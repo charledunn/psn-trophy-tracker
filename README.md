@@ -1,4 +1,7 @@
-Made with the basics of C++ and python.
+Made with the basics of C++ and python.\
+This program would be much better and simpler if wrote completely in Python or C++, but I wanted to see if I could make a parser with C++ and requests with Python is so much easier. Anyway I'm happy that I created a unique functional program without any guides or tutorials.
+
+If you want to help me make this into an actual good app worthy of it's potential hmu on discord: https://discord.gg/CNCSrYeH
 
 Before running this program sign into the official playstation store and login.\
 Then go to https://ca.account.sony.com/api/v1/ssocookie \
